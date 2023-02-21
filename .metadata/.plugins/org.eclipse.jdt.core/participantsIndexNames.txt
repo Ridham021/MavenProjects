@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/ridham/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/310732793.index
+/productweb/src/main/resources
+/home/ridham/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/872485357.index
+/productWeb/src/main/resources

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.ridham.product.dto.Product"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="java.security.Identity"/>
+    <fullyQualifiedTypeName name="com.ridham.product.bo.ProductBO"/>
+    <fullyQualifiedTypeName name="com.ridham.product.bo.dto.Product"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.ridham.product.dao.ProductDAOImpl"/>
+    <fullyQualifiedTypeName name="com.ridham.product.dao.ProductDAO"/>
+</qualifiedTypeNameHistroy>

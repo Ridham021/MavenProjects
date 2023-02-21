@@ -1,0 +1,5 @@
+package com.ridham.product.dto;
+
+public class Product {
+
+}

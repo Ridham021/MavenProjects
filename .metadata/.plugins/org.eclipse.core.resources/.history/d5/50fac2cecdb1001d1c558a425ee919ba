@@ -1,0 +1,5 @@
+package com.ridham.product.dao;
+
+public interface ProductDAO {
+
+}

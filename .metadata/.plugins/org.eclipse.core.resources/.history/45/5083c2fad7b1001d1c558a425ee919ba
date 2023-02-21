@@ -1,0 +1,5 @@
+package com.ridham.product.bo;
+
+public interface ProductBO {
+
+}
