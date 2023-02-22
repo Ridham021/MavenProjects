@@ -10,13 +10,16 @@ public class ProductBOImpl implements ProductBO {
 	@Override
 	public void create(Product product) {
 		// TODO Auto-generated method stub
+		dao.create(product);
 
 	}
 
 	@Override
 	public Product findProduct(int id) {
 		// TODO Auto-generated method stub
-		return dao.read(id);
+		Product product = dao.read(id);
+//		System.out.println(product.toString());
+		return product;
 	}
 
 }

@@ -42,6 +42,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.ridham.product.productWeb"/>
 			<item value="com.ridham.product.productweb"/>
 			<item value="com.ridham.product"/>
 		</list>
@@ -49,6 +50,7 @@
 			<item value="com.ridham.product"/>
 		</list>
 		<list key="artifactId">
+			<item value="productWeb"/>
 			<item value="productweb"/>
 			<item value="productservices"/>
 		</list>

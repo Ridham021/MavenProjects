@@ -12,4 +12,5 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.ridham.product.dao.ProductDAOImpl"/>
     <fullyQualifiedTypeName name="com.ridham.product.dao.ProductDAO"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 </qualifiedTypeNameHistroy>

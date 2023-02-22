@@ -4,4 +4,24 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>CreateProductServlet</servlet-name>
+  	<display-name>CreateProductServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.ridham.products.servlets.CreateProductServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>DisplayProductsDetailServlet</servlet-name>
+  	<display-name>DisplayProductsDetailServlet</display-name>
+  	<description></description>
+  	<servlet-class>com.ridham.products.servlets.DisplayProductsDetailServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>CreateProductServlet</servlet-name>
+  	<url-pattern>/CreateProductServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>DisplayProductsDetailServlet</servlet-name>
+  	<url-pattern>/DisplayProductsDetailServlet</url-pattern>
+  </servlet-mapping>
 </web-app>

@@ -7,7 +7,8 @@ import com.ridham.product.dto.Product;
 
 public class ProductDAOImpl implements ProductDAO {
 
-	Map<Integer, Product> products = new HashMap<>();
+	static Map<Integer, Product> products = new HashMap<>();
+	
 
 	@Override
 	public void create(Product product) {
@@ -17,6 +18,7 @@ public class ProductDAOImpl implements ProductDAO {
 
 	@Override
 	public Product read(int id) {
+		//System.out.println(products.get(id).toString());
 		return products.get(id);
 	}
 
